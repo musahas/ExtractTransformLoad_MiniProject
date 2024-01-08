@@ -1,4 +1,4 @@
-# Extract Transform Load Crowdfunding files 
+# Extract, Transform and Load Crowdfunding files 
 
 **Readme**
 
